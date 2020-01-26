@@ -29,6 +29,6 @@
 }
 ```
 
-Результат: http://g.recordit.co/WMwMkdqkTD.gif
+[Результат](http://g.recordit.co/WMwMkdqkTD.gif)
 
-Готовая frontend сборка с миксином: https://github.com/artem-Zrilov/frontend-pack
+[Сборка](https://github.com/artem-Zrilov/frontend-pack)
